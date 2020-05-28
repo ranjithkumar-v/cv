@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    
+}
+.main-bg{
+    width:100%;
+    height: 70%;
+}
+.intro {
+  position: absolute;
+  top: 20%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+
+h1{
+  margin-top:150px;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.62rem;
+  margin: 0;
+  /* color: #ffd3b6; */
+  color:#ffe0cc;
+  
+}
+h3{
+  font-family:'Montserrat',sans-serif;
+  color:#ffa366;
+  font-size: 1.5em;
+}
+
+p{
+  line-height:2;
+  
+}
+
+.web-dev{
+  /* color: #ffd3b6; */
+  color: #ffe0cc;
+  margin:0;
+  font-family:'Montserrat',sans-serif;
+  font-size:1.7rem;
+}
+.container {
+  position: relative;
+  text-align:center;
+  color: white;
+
+}
+.ranjith-img{
+  margin-top:70px;
+  border-radius: 100%;
+  height:20%;
+  width: 10%;
+
+}
+hr{
+  border: dotted #d9d9d9 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+  }
+  /* h2 having classname - my-skills */
+.my-skills{
+   color: #ffa366;
+  font-size: 1.7em;
+}
+.skill-image-html{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-image-css{
+  width: 20%;
+  float:right;
+  margin-left: 30px;
+}
+.skill-image-js{
+  width: 15%;
+  float: left;
+  margin-right:60px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  
+}
+.html{
+  margin-bottom: 150px;
+}
+.css{
+  margin-bottom:150px;
+}
+.js{
+  margin-bottom: 150px;
+}
+/* footer section */
+.footer{
+  background-color:  #f57b51;
+  color: #ffd3b6;
+  padding-top: 20px;
+  margin-top: 100px;
+}
+
+a{
+  text-decoration: none;
+  color:#ffd3b6;
+  margin-left:50px;
+  
+}
+a:hover{
+  color:white;
+}
+.contact{
+  color: #ffa366;
+  font-size: 1.7em;
+  margin-bottom: 70px;
+  font-family:'Montserrat',sans-serif;
+
+}
+
+.testbutton {
+  margin-left:0;
+  border-left: 0;
+  font-family:'Montserrat',sans-serif;
+  font-weight: bold;
+  color: #FF751A !important;
+  font-size: 20px;
+  text-shadow: 1px 1px 0px #FFD1B3;
+  box-shadow: 1px 1px 1px #FF751A;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #FFD1B3;
+  background: linear-gradient(top,  #FFD1B3,  #FFD1B3);
+  background: -ms-linear-gradient(top,  #FFD1B3,  #FFD1B3);
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFD1B3), to(#FFD1B3));
+  background: -moz-linear-gradient(top,  #FFD1B3,  #FFD1B3);
+}
+.testbutton:hover {
+  color: #B5C2C7 !important;
+  background: #FFD1B3;
+  background: linear-gradient(top,  #FFD1B3,  #FFD1B3);
+  background: -ms-linear-gradient(top,  #FFD1B3,  #FFD1B3);
+  background: -webkit-gradient(linear, left top, left bottom, from(#FFD1B3), to(#FFD1B3));
+  background: -moz-linear-gradient(top,  #FFD1B3,  #FFD1B3);
+}
