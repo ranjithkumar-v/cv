@@ -151,9 +151,6 @@ a:hover{
   background: -moz-linear-gradient(top,  #FFD1B3,  #FFD1B3);
 }
 @media(max-width:768px){
-  body{
-    display: none;
-  }
   .main-bg{
     width:100%;
     height: 500%;
