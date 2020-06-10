@@ -162,6 +162,7 @@ h1{
 }
 .web-dev{
   font-size:2em;
+    display:none;
 }
 .ranjith-img{
   width: 20%;
