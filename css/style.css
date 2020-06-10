@@ -152,7 +152,7 @@ a:hover{
 }
 @media(max-width:768px){
   body{
-    display: non
+    display: none;
   }
   .main-bg{
     width:100%;
